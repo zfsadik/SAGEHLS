@@ -41,7 +41,7 @@ This repository contains the resources, code, and documentation supporting our w
    ```
 
 
-# ## Citation
+## Citation
 
 If you use our model, dataset, or code, please cite our paper:
 
