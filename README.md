@@ -1,4 +1,4 @@
-# SAGEHLS
+# SAGE-HLS
 SAGE-HLS: Syntax-Aware AST-Guided LLM for High-Level Synthesis Code Generation
 
 This repository contains the resources, code, and documentation supporting our work on training a model for HLS-C++ code generation. Our work demonstrates how to leverage transformer-based architectures for understanding and generating HLS code, with a focus on applications using Xilinx Vitis HLS tool.
