@@ -17,7 +17,7 @@ This repository contains the resources, code, and documentation supporting our w
 ## Quick Start
 
 1. **Open and run the notebook**
-   - Open `run_sagehls.ipynb` in [Google Colab](https://colab.research.google.com/), JupyterLab, or any compatible environment with GPU support.
+   - Open `run_model.ipynb` in [Google Colab](https://colab.research.google.com/), JupyterLab, or any compatible environment with GPU support.
    - The notebook will:
      - Install Unsloth.
      - Load the fine-tuned Qwen Coder 7B model from Hugging Face.
