@@ -11,7 +11,7 @@ This repository contains the resources, code, and documentation supporting our w
 
 ## Dataset
 
-- **Dataset:** [mashnoor/hls-vitis-ast-unverified](https://huggingface.co/datasets/mashnoor/hls-vitis-ast-unverified)
+- **Dataset:** [mashnoor/hls-ast-sagehls](https://huggingface.co/datasets/mashnoor/hls-vitis-ast-unverified)
 - The dataset consists of HLS code samples, annotated with AST information, curated to support training and evaluation of code language models in the hardware design domain.
 
 ## Quick Start
