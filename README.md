@@ -5,7 +5,7 @@ This repository contains the resources, code, and documentation supporting our w
 
 ## Model Details
 
-- **Model Name:** [mashnoor/hls-vitis-ast-unverified-qwen-coder-7B](https://huggingface.co/mashnoor/hls-vitis-ast-unverified-qwen-coder-7B)
+- **Model Name:** [mashnoor/hls-vitis-ast-qwen-coder-7B](https://huggingface.co/mashnoor/hls-vitis-ast-qwen-coder-7B)
 - **Base Architecture:** Qwen2.5-Coder-7B
 - **Training Framework:** [Unsloth](https://github.com/unslothai/unsloth)
 
