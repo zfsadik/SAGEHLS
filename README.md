@@ -46,7 +46,15 @@ This repository contains the resources, code, and documentation supporting our w
 If you use our model, dataset, or code, please cite our paper:
 
 ```bibtex
-
+@misc{khan2025sagehlssyntaxawareastguidedllm,
+      title={SAGE-HLS: Syntax-Aware AST-Guided LLM for High-Level Synthesis Code Generation}, 
+      author={M Zafir Sadik Khan and Nowfel Mashnoor and Mohammad Akyash and Kimia Azar and Hadi Kamali},
+      year={2025},
+      eprint={2508.03558},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL},
+      url={https://arxiv.org/abs/2508.03558}, 
+}
 ```
 
 ## License
